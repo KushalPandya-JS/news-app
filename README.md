@@ -30,7 +30,7 @@ After the user navigates to Home page, The home page will be presented with the 
 
 0) Install Ionic if needed: `npm install -g @ionic/cli`.
 1) Clone this repository. `git clone https://github.com/KushalPandya-JS/news-app.git`.
-2) In a terminal, change directory into the repo: `cd photo-gallery-capacitor-react`.
+2) In a terminal, change directory into the repo: `cd news-app`.
 3) Install all packages: `npm install`.
 4) Run on the web: `ionic serve`.
 5) Run on iOS or Android: See [here](https://ionicframework.com/docs/building/running).
