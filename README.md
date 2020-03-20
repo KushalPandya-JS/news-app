@@ -41,3 +41,15 @@ After the user navigates to Home page, The home page will be presented with the 
         `npx cap open ios`
         `npx cap open android`
     The native iOS and Android projects are opened in their standard IDEs (Xcode and Android Studio, respectively). Use the IDEs to run and deploy your app.
+
+
+## Testing
+
+- Testing flow: Jest/Cypress
+
+```
+npm run test
+\\ or
+npm run test:watch
+
+```
