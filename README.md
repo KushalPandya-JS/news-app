@@ -1,5 +1,3 @@
-# news-app
-News App Mobile App
 # News Mobile App (Ionic React and Capacitor)
 
 Get started with Ionic by building app that runs on iOS, Android, and the web - with just one codebase. 
